@@ -7,7 +7,7 @@ Usage: `.pre-commit-config.yaml`:
 ``` yaml
 repos:
   - repo: https://github.com/jwalsh/google-style-precommit-hook
-    sha: 3441780490c2fd34f56fb8cbf2295897a5b23c5d
+    sha: 2103992cc989d12e208f1b5f17294a6c3848ca9f
     hooks:
       - id: google-style-java
 ```
